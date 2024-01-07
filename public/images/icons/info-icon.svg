@@ -1,0 +1,4 @@
+<svg data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="64" height="51.781" viewBox="0 0 64 51.781">
+    <ellipse data-name="Ellipse 399" cx="32" cy="3.5" rx="32" ry="3.5" transform="translate(0 44.781)" style="fill:rgba(183,183,183,.2)"/>
+    <path data-name="Path 7421" d="M23.2 0a23.2 23.2 0 1 0 23.2 23.2A23.2 23.2 0 0 0 23.2 0zm3.546 35.863a3.536 3.536 0 0 1-7.072 0V20.456a3.536 3.536 0 0 1 7.072 0zM23.2 14.026a3.884 3.884 0 1 1 3.885-3.884 3.885 3.885 0 0 1-3.885 3.884z" transform="translate(8.802)" style="fill:#0a47ac"/>
+</svg>

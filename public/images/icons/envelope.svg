@@ -1,0 +1,7 @@
+<svg id="Envelope" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Vector" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Vector-2" data-name="Vector" d="M18,0,9,8.25,0,0" transform="translate(3 5.25)" fill="none" stroke="#8c959f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H18V12.75a.75.75,0,0,1-.75.75H.75A.75.75,0,0,1,0,12.75Z" transform="translate(3 5.25)" fill="none" stroke="#8c959f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-4" data-name="Vector" d="M7.132,0,0,6.538" transform="translate(3.231 12)" fill="none" stroke="#8c959f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-5" data-name="Vector" d="M7.132,6.538,0,0" transform="translate(13.636 12)" fill="none" stroke="#8c959f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

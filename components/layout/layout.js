@@ -1,0 +1,11 @@
+/* eslint-disable prettier/prettier */
+
+const Layout = ({ children }) => {
+  return (
+      <div className={`layout`}>
+        {children}
+      </div>
+  )
+}
+
+export default Layout

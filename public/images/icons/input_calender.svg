@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.334" height="17.935" viewBox="0 0 18.334 17.935">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17304" data-name="Rectangle 17304" width="18.334" height="17.935" transform="translate(0 0)" fill="#0e0d47"/>
+    </clipPath>
+  </defs>
+  <g id="Group_20474" data-name="Group 20474" transform="translate(0 -1)">
+    <g id="Group_20473" data-name="Group 20473" transform="translate(0 1)" clip-path="url(#clip-path)">
+      <path id="Path_7546" data-name="Path 7546" d="M1.88,7.2H3.94V9.044A1.05,1.05,0,0,0,5,10.087,1.039,1.039,0,0,0,6.038,9.044V7.2h6.244V9.044a1.056,1.056,0,0,0,2.111,0V7.2h2.06a1.857,1.857,0,0,1,1.326.554,1.888,1.888,0,0,1,.554,1.326V21.6a1.891,1.891,0,0,1-1.88,1.892H1.88A1.89,1.89,0,0,1,0,21.6V9.083A1.889,1.889,0,0,1,.554,7.757,1.859,1.859,0,0,1,1.88,7.2m15.579,9.9V12.16H.875V21.6a1.012,1.012,0,0,0,1,1.017H16.454a1.012,1.012,0,0,0,1-1.017Z" transform="translate(0 -5.555)" fill="#0e0d47"/>
+      <path id="Path_7547" data-name="Path 7547" d="M19.4,0h0a.72.72,0,0,1,.721.721V3.489a.721.721,0,1,1-1.442,0V.721A.72.72,0,0,1,19.4,0" transform="translate(-14.405 0)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7548" data-name="Path 7548" d="M55.862,0h0a.72.72,0,0,1,.721.721V3.489a.721.721,0,1,1-1.442,0V.721A.72.72,0,0,1,55.862,0" transform="translate(-42.524 0)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7549" data-name="Path 7549" d="M16.474,35.448h1.519a.272.272,0,0,1,.271.27v1.519a.272.272,0,0,1-.271.27H16.474a.264.264,0,0,1-.271-.27V35.718a.264.264,0,0,1,.271-.27" transform="translate(-12.495 -27.337)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7550" data-name="Path 7550" d="M29.359,35.448h1.519a.264.264,0,0,1,.27.27v1.519a.264.264,0,0,1-.27.27H29.359a.272.272,0,0,1-.27-.27V35.718a.272.272,0,0,1,.27-.27" transform="translate(-22.433 -27.337)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7551" data-name="Path 7551" d="M42.3,35.448h1.519a.264.264,0,0,1,.271.27v1.519a.264.264,0,0,1-.271.27H42.3a.264.264,0,0,1-.27-.27V35.718a.264.264,0,0,1,.27-.27" transform="translate(-32.412 -27.337)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7552" data-name="Path 7552" d="M16.474,48h1.519a.272.272,0,0,1,.271.27v1.519a.281.281,0,0,1-.271.27H16.474a.272.272,0,0,1-.271-.27V48.266a.264.264,0,0,1,.271-.27" transform="translate(-12.495 -37.013)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7553" data-name="Path 7553" d="M29.359,48h1.519a.264.264,0,0,1,.27.27v1.519a.271.271,0,0,1-.27.27H29.359a.281.281,0,0,1-.27-.27V48.266a.272.272,0,0,1,.27-.27" transform="translate(-22.433 -37.013)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7554" data-name="Path 7554" d="M42.3,48h1.519a.264.264,0,0,1,.271.27v1.519a.272.272,0,0,1-.271.27H42.3a.272.272,0,0,1-.27-.27V48.266A.264.264,0,0,1,42.3,48" transform="translate(-32.412 -37.013)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7555" data-name="Path 7555" d="M16.474,60.487h1.519a.281.281,0,0,1,.271.271v1.519a.272.272,0,0,1-.271.27H16.474a.264.264,0,0,1-.271-.27V60.758a.272.272,0,0,1,.271-.271" transform="translate(-12.495 -46.646)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7556" data-name="Path 7556" d="M29.359,60.487h1.519a.272.272,0,0,1,.27.271v1.519a.264.264,0,0,1-.27.27H29.359a.272.272,0,0,1-.27-.27V60.758a.281.281,0,0,1,.27-.271" transform="translate(-22.433 -46.646)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7557" data-name="Path 7557" d="M42.3,60.487h1.519a.272.272,0,0,1,.271.271v1.519a.264.264,0,0,1-.271.27H42.3a.264.264,0,0,1-.27-.27V60.758a.272.272,0,0,1,.27-.271" transform="translate(-32.412 -46.646)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7558" data-name="Path 7558" d="M55.185,35.448H56.7a.264.264,0,0,1,.27.27v1.519a.264.264,0,0,1-.27.27H55.185a.272.272,0,0,1-.27-.27V35.718a.272.272,0,0,1,.27-.27" transform="translate(-42.349 -27.337)" fill="#0e0d47" fill-rule="evenodd"/>
+      <path id="Path_7559" data-name="Path 7559" d="M55.185,48H56.7a.264.264,0,0,1,.27.27v1.519a.272.272,0,0,1-.27.27H55.185a.281.281,0,0,1-.27-.27V48.266a.272.272,0,0,1,.27-.27" transform="translate(-42.349 -37.013)" fill="#0e0d47" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

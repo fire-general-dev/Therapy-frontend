@@ -1,0 +1,5 @@
+.container {
+  // display: flex;
+  //   padding: 0.520833vw 3.125vw;
+  @apply flex justify-between bg-black-333 text-gray-f0 py-2.5 px-5 lg:px-vw60 lg:py-vw10;
+}

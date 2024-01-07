@@ -1,0 +1,14 @@
+<svg id="icon-location" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon-location_Background_Mask_" data-name="icon-location (Background/Mask)" width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="icon-location_Background_Mask_2" data-name="icon-location (Background/Mask)" width="20" height="20" fill="none"/>
+  <g id="icon-location-2" data-name="icon-location" clip-path="url(#clip-path)">
+    <g id="Group" transform="translate(4.675 3)">
+      <path id="Vector" d="M5.9,14.492a.773.773,0,0,1-1.15,0C3.375,12.942,0,8.783,0,5.325a5.325,5.325,0,1,1,10.65,0C10.65,8.783,7.275,12.942,5.9,14.492Z" fill="none" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M2.133,4.267A2.133,2.133,0,1,1,4.267,2.133,2.133,2.133,0,0,1,2.133,4.267Z" transform="translate(3.183 3.192)" fill="none" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

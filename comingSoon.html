@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nafsi</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Tajawal:normal,black"
+    />
+  </head>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
+    body {
+      height: 100vh;
+      width: 100vw;
+      overflow: hidden;
+      font-size: 12px;
+    }
+    .backgroundColor {
+      background-image: linear-gradient(to right, #ffede3 100%, #c8e1fc),
+        linear-gradient(315deg, transparent, #d61f69);
+    }
+    .backgroundContainers {
+      position: absolute;
+      left: 0;
+      height: 100%;
+      width: 100%;
+    }
+    .backgroundColor2 {
+      background-image: linear-gradient(
+        205deg,
+        rgba(31, 37, 46, 0) 60%,
+        rgba(31, 37, 46, 0) 0%,
+        rgba(246, 227, 225, 1) 100%,
+        #f6e3e1
+      ) !important;
+    }
+    .backgroundColor3 {
+      background-image: radial-gradient(
+        ellipse at top,
+        rgba(249, 249, 237, 0.7) 19%,
+        rgba(249, 249, 237, 0.1) 56%
+      ) !important;
+    }
+    .backgroundColor4 {
+      background-image: linear-gradient(
+        30deg,
+        rgba(31, 37, 46, 0),
+        rgba(31, 37, 46, 0) 50%,
+        rgba(232, 246, 245, 0.56) 70%,
+        rgba(232, 246, 245, 0.76) 80%,
+        rgba(232, 246, 245, 0.9) 90%,
+        #e8f6f5
+      ) !important;
+    }
+    .imageBackground {
+      position: absolute;
+      left: 50%;
+      height: 100%;
+      width: 50%;
+      opacity: 1;
+      filter: blur(24px);
+      background: transparent
+        radial-gradient(
+          closest-side at 50% 50%,
+          #f2c4bd 0%,
+          #ffffffac 55%,
+          #ffffff00 100%
+        )
+        0% 0% no-repeat padding-box;
+      transform: translate(-50%, 0%);
+    }
+    .imageStyle {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 40em;
+    }
+    .logo {
+      position: absolute;
+      z-index: 2;
+      transform: translate(-50%, 0%);
+      width: 14vw;
+      left: 50%;
+      margin-top: 3em;
+    }
+    .comingSoon {
+      position: absolute;
+      left: 50%;
+      bottom: 25vh;
+      font-family: "Tajawal", serif;
+      font-size: 3em;
+      transform: translate(-46%, 0%);
+      color: #333;
+      /* font-style: bold; */
+      font-weight: bold;
+      text-align: center;
+    }
+    .copy {
+      position: absolute;
+      left: 50%;
+      bottom: 2vh;
+      font-family: "Tajawal", serif;
+      font-size: 1em;
+      transform: translate(-50%, 0%);
+      color: #333;
+      /* font-style: bold; */
+      font-weight: normal;
+    }
+    @media (min-width: 1024px) {
+      body {
+        font-size: 1vw;
+      }
+      .backgroundColor {
+        background-image: linear-gradient(to right, #ffede3, #c8e1fc),
+          linear-gradient(315deg, transparent, #d61f69);
+      }
+    }
+  </style>
+  <body class="backgroundColor">
+    <img class="logo" src="./logo.png" alt="nafsi logo" />
+    <div class="backgroundContainers backgroundColor2"></div>
+    <div class="backgroundContainers backgroundColor3"></div>
+    <div class="backgroundContainers backgroundColor4"></div>
+    <!-- <div class="backgroundContainers imageBackground"></div> -->
+    <img class="imageStyle" src="./main_image2.png" alt="main image" />
+    <h2 class="comingSoon">Website is coming soon</h2>
+    <div class="copy">nafsi @ 2023</div>
+  </body>
+</html>

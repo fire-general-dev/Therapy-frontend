@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.273" height="20" viewBox="0 0 19.273 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3131" data-name="Rectangle 3131" width="19.273" height="20" transform="translate(0 0)" fill="#999"/>
+    </clipPath>
+  </defs>
+  <g id="Group_15954" data-name="Group 15954" transform="translate(0 0)">
+    <g id="Group_15953" data-name="Group 15953" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_7351" data-name="Path 7351" d="M1.818,8.858A1.818,1.818,0,0,0,0,10.676V24.737a1.818,1.818,0,0,0,1.818,1.818H17.454a1.818,1.818,0,0,0,1.818-1.818V10.676a1.818,1.818,0,0,0-1.818-1.818h-.636v1.151a1.394,1.394,0,1,1-2.788,0V8.858H5.242v1.151a1.394,1.394,0,1,1-2.788,0V8.858ZM2.97,13.949H16.3a.7.7,0,0,1,.727.659v9.108a.7.7,0,0,1-.727.657H2.97a.7.7,0,0,1-.727-.657V14.607a.7.7,0,0,1,.727-.659" transform="translate(0 -6.555)" fill="#999"/>
+      <path id="Path_7352" data-name="Path 7352" d="M12.238.667V3.455a.667.667,0,1,0,1.333,0V.667a.667.667,0,0,0-1.333,0" transform="translate(-9.056 -0.001)" fill="#999"/>
+      <path id="Path_7353" data-name="Path 7353" d="M56.758.667V3.455a.667.667,0,1,0,1.333,0V.667a.667.667,0,0,0-1.333,0" transform="translate(-42.001 -0.001)" fill="#999"/>
+      <rect id="Rectangle_3125" data-name="Rectangle 3125" width="3.527" height="3.61" transform="translate(3.517 8.53)" fill="#999"/>
+      <rect id="Rectangle_3126" data-name="Rectangle 3126" width="3.527" height="3.61" transform="translate(7.958 8.53)" fill="#999"/>
+      <rect id="Rectangle_3127" data-name="Rectangle 3127" width="3.527" height="3.61" transform="translate(3.517 12.967)" fill="#999"/>
+      <rect id="Rectangle_3128" data-name="Rectangle 3128" width="3.527" height="3.61" transform="translate(7.958 12.967)" fill="#999"/>
+      <rect id="Rectangle_3129" data-name="Rectangle 3129" width="3.527" height="3.61" transform="translate(12.564 8.53)" fill="#999"/>
+      <rect id="Rectangle_3130" data-name="Rectangle 3130" width="3.527" height="3.61" transform="translate(12.564 12.967)" fill="#999"/>
+    </g>
+  </g>
+</svg>
